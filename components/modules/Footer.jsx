@@ -5,7 +5,7 @@ function Footer() {
   return (
     <div className={styles.footer}>
       <a href="https://google.com" target="_blank" rel="noreferrer">
-        google
+        google -
       </a>
       Next js food project &copy;
     </div>
